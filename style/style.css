@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* div{
+  border: 1px solid;
+  font-family: 'Roboto', sans-serif;
+} */
+.serviceSection{
+   background-color: #ffffff;
+   margin: 3rem 0 ;
+}
+.afterYouBuyText{
+   font-size: 1.2rem;
+}
+.upgradeServiceSection{
+  box-sizing: border-box;
+  width: 14.7rem;
+  height: 140px;
+  margin: 0 13px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.serviceDescription{
+  padding: 0 6px;
+}
+
+/*--------inventory section--------*/
+.newInventory{
+background-color:#F5F5F5; 
+}
+.newInventoryCard{
+  font-size: 13px;
+  padding:0 50px;
+}
+.newInventory .descriptionCard{
+  box-sizing: border-box;
+  width: 15.1rem;
+  margin: 0 13px;
+}
+.newInventory .descriptionCard .modelYear{
+  color: rgba(51, 51, 51, 0.7);
+  font-weight: 600;
+}
+.newInventory .descriptionCard .modelName{
+  color: #007CC3;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.newInventory .descriptionCard .leasFor{
+  font-size: .8rem;
+  padding: 0.7rem 0rem;
+  color: black;
+}
+.newInventory .descriptionCard .leasFor .icon{
+  font-size: 0.7rem;
+}
+
+.newInventory .carDescription{
+  border-bottom: 1px solid rgba(130, 127, 127, 0.4) ;
+  padding: 0.7rem;
+}
+.offerSection {
+  margin-top: 0.5rem;
+ 
+}
+.viewAll{
+  margin-left: 0.7rem;
+}
+.newInventory .offerSection .fa-chevron-circle-right{
+  margin-left: 0.4rem;
+}
+.newInventory .exploreBtn{
+  padding: 0.5rem 1.5rem;
+  margin-left: 2rem;
+  background-color:#007CC3;
+  border-radius: 28px;
+  color: white;
+  font-weight: bold;
+}
+.slick-arrow{
+  color: #007CC3;
+  background-color: red;
+}
+
+
+
+
+
+
+
+
+
